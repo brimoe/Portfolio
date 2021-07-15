@@ -14,7 +14,7 @@ Data Analytics has become an instant passion for me on how inquisitive and influ
 
 My data projects below will showcase what I've accomplished by learning data science and data analytics for educational and professional purposes. I am devoted to expanding my knowledge and eager to contribute my skills in a professional setting. \ (•◡•) /
 
-### Sentiment Analysis on Amazon Fine Food Reviews
+### [Sentiment Analysis on Amazon Fine Food Reviews](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/23a4fb61-d1eb-4457-8003-c3bc0bfb8bfc/view?access_token=e6ea4246588dae2ad06ab2d67d014a5093673151271a0ad06f25349f18e65827)
 Language: Python
 
 In this project, I produced a sentiment analysis covering over 500,00 reviews from Amazon Fine Food. I classified positive and negative customer reviews with this large dataset and displayed my analysis using plotly visualizations, word clouds, and machine learning.
