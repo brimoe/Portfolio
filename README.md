@@ -13,6 +13,7 @@ Data Analytics has become an instant passion for me on how inquisitive and influ
 * Power BI
 
 My data projects below will showcase what I've accomplished by learning data science and data analytics for educational and professional purposes. I am devoted to expanding my knowledge and eager to contribute my skills in a professional setting. \ (•◡•) /
+___
 
 ### [Sentiment Analysis on Amazon Fine Food Reviews](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/23a4fb61-d1eb-4457-8003-c3bc0bfb8bfc/view?access_token=e6ea4246588dae2ad06ab2d67d014a5093673151271a0ad06f25349f18e65827)
 Language: Python
@@ -20,6 +21,7 @@ Language: Python
 In this project, I produced a sentiment analysis covering over 500,00 reviews from Amazon Fine Food. I classified positive and negative customer reviews with this large dataset and displayed my analysis using plotly visualizations, word clouds, and machine learning.
 
 This analysis features technical functions such as pandas, matplotlib, plotly, seaborn, word cloud, nltk, sklearn, Multinominal Naive Bayes Model.
+___
 
 ### [Segmenting and Clustering Neighborhoods in Toronto](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/3cdcd0e9-3226-4307-9f22-baa19bad3d27/view?access_token=93541f20d4deb09840c6ca509a16cbfc5ada9ce3e34e35ed2aa31c079f9a1d65) 
 Language: Python
@@ -27,6 +29,7 @@ Language: Python
 For this data project, I segmented and clustered the neighborhoods in Toronto, Canada, based on postal code and district information found from an open data source. Then, I generated a folium map to visualize the communities and how they cluster together.
 
 This analysis features technical functions such as pandas, beautiful soup, NumPy, nominatim, json_normalize, and folium.
+___
 
 ### [Battle of the Neighborhoods Capstone Project](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/5f0c3d1c-396a-4555-b9f5-2c7e0482b10e/view?access_token=c20feba44814fd74935a511af0ad6176a2943983942271d0a7cfa579df4c4539)
 Language: Python
