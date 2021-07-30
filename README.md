@@ -39,7 +39,7 @@ This project is a comprehensive analysis report for the IBM Data Science Capston
 This analysis features technical functions such as `pandas`, `numpy`, `nominatim`,  `folium`, and Foursquare API.
 ___
 
-### 📊 Real Estate Value Trends
+### 📊 [Real Estate Value Trends](https://github.com/brimoe/Portfolio/blob/149066c28adcef685f8219d1e8b912d69ed612b3/Real_Estate_Value_Trends.ipynb)
 Tools: SQLite, Tableau
 
 This data project is an exploratory SQL & Tableau project of retrieving and analyzing trends in estimated real estate prices to uncover insights to potential stakeholders to make beneficial business decisions.
