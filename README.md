@@ -37,3 +37,10 @@ Language: Python
 This project is a comprehensive analysis report for the IBM Data Science Capstone Project. In this capstone, I will create a problem for a group of people and then use Foursquare location data to solve it.
 
 This analysis features technical functions such as `pandas`, `numpy`, `nominatim`,  `folium`, and Foursquare API.
+___
+
+### 📊 Real Estate Value Trends
+Tools: SQLite, Tableau
+
+This data project is an exploratory SQL & Tableau project of retrieving and analyzing trends in estimated real estate prices to uncover insights to potential stakeholders to make beneficial business decisions.
+
