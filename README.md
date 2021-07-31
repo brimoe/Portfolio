@@ -47,7 +47,7 @@ This data project is an exploratory SQL & Tableau project of retrieving and anal
 ___
 
 
-### 📊 [Customer Segmentation using machine learning]
+### 📊 [Customer Segmentation using machine learning](https://github.com/brimoe/Portfolio/blob/a017aac4d1991cbf78b25965fab0fbad3818fc81/Customer_Segmentation_R.pdf)
 Language: R
 
 For this data project, I developed mall customer segmentation using unsupervised machine learning in R. This project consists of descriptive analysis and grouping customers using the k-means clustering algorithm. 
