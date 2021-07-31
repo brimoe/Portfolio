@@ -44,3 +44,13 @@ Tools: SQLite, Tableau
 
 This data project is an exploratory SQL & Tableau project of retrieving and analyzing trends in estimated real estate prices to uncover insights to potential stakeholders to make beneficial business decisions.
 
+___
+
+
+### 📊 [Customer Segmentation using machine learning]
+Language: R
+
+For this data project, I developed mall customer segmentation using unsupervised machine learning in R. This project consists of descriptive analysis and grouping customers using the k-means clustering algorithm. 
+
+This analysis features packages such as `plotrix`, `factoextra`, `ggplot2`, and `NbClust`.
+___
