@@ -15,10 +15,10 @@ My data projects below will showcase what I've accomplished by learning data sci
 
 
 
-### 📊 [Sentiment Analysis on Amazon Fine Food Reviews](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/23a4fb61-d1eb-4457-8003-c3bc0bfb8bfc/view?access_token=e6ea4246588dae2ad06ab2d67d014a5093673151271a0ad06f25349f18e65827)
+### 📊 [Sentiment Analysis on Amazon Fine Food Reviews](https://github.com/brimoe/Portfolio/blob/eaeb775b07649791db2ded0693da463b1158c818/Sentiment_Amazon_Analysis.pdf)
 Language: Python
 
-In this project, I produced a sentiment analysis covering over 500,00 reviews from Amazon Fine Food. I classified positive and negative customer reviews with this large dataset and displayed my analysis using plotly visualizations, word clouds, and machine learning.
+In this project, I produced a sentiment analysis covering over 500,00 reviews from Amazon Fine Food [dataset](https://www.kaggle.com/snap/amazon-fine-food-reviews?select=Reviews.csv). I classified positive and negative customer reviews with this large dataset and displayed my analysis using plotly visualizations, word clouds, and machine learning.
 
 This analysis features technical functions such as `pandas`, `matplotlib`, `plotly`, `seaborn`, `word cloud`, `nltk`, `sklearn`, `Multinominal Naive Bayes Model`.
 ___
