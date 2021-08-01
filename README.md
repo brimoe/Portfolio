@@ -18,9 +18,9 @@ My data projects below will showcase what I've accomplished by learning data sci
 ### 📊 [Sentiment Analysis on Amazon Fine Food Reviews](https://github.com/brimoe/Portfolio/blob/eaeb775b07649791db2ded0693da463b1158c818/Sentiment_Amazon_Analysis.pdf)
 Language: Python
 
-In this project, I produced a sentiment analysis covering over 500,00 reviews from Amazon Fine Food [dataset](https://www.kaggle.com/snap/amazon-fine-food-reviews?select=Reviews.csv). I classified positive and negative customer reviews with this large dataset and displayed my analysis using plotly visualizations, word clouds, and machine learning.
+In this project, I produced a sentiment analysis covering over 500,000 reviews from Amazon Fine Food Reviews [dataset](https://www.kaggle.com/snap/amazon-fine-food-reviews?select=Reviews.csv). I classified positive and negative customer reviews with this large dataset and displayed my analysis using plotly visualizations, word clouds, and machine learning.
 
-This analysis features technical functions such as `pandas`, `matplotlib`, `plotly`, `seaborn`, `word cloud`, `nltk`, `sklearn`, `Multinominal Naive Bayes Model`.
+This analysis features technical functions such as `pandas`, `matplotlib`, `plotly`, `seaborn`, `word cloud`, `nltk`, `sklearn`, and `Multinominal Naive Bayes Model`.
 ___
 
 ### 📊 [Segmenting and Clustering Neighborhoods in Toronto](https://nbviewer.jupyter.org/github/brimoe/Portfolio/blob/main/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto%20%281%29.ipynb) 
@@ -34,7 +34,7 @@ ___
 ### 📊 [Battle of the Neighborhoods Capstone Project](https://nbviewer.jupyter.org/github/brimoe/Portfolio/blob/main/Battle%20of%20the%20Neighborhoods%20%282%29.ipynb)
 Language: Python
 
-This project is a comprehensive analysis report for the IBM Data Science Capstone Project. In this capstone, I will create a problem for a group of people and then use Foursquare location data to solve it.
+This project is a comprehensive analysis report for the IBM Data Science Capstone Project. In this capstone, I created a problem for a group of people and then use Foursquare location data to solve it.
 
 This analysis features technical functions such as `pandas`, `numpy`, `nominatim`,  `folium`, and Foursquare API.
 ___
@@ -42,8 +42,9 @@ ___
 ### 📊 [Real Estate Value Trends](https://nbviewer.jupyter.org/github/brimoe/Portfolio/blob/82c40f83b73e99e55bce3ea2cf0fed64fe8c7222/Real_Estate_Value_Trends.ipynb)
 Tools: SQLite, Tableau
 
-This data project is an exploratory SQL & Tableau project of retrieving and analyzing trends in estimated real estate prices to uncover insights to potential stakeholders to make beneficial business decisions.
+This data project is an exploratory SQL & Tableau project of retrieving and analyzing trends in estimated real estate values. Inside this project, I answered key questions to potential stakeholders to make beneficial business decisions.
 
+This analysis features packages such as `sqlalchemy`, `substr()`, `COUNT(DISTINCT)`,  `GROUPBY`, `ORDERBY`, `ROUND(AVG())`,  and `LEFTJOIN`.
 ___
 
 
