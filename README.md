@@ -23,7 +23,7 @@ In this project, I produced a sentiment analysis covering over 500,00 reviews fr
 This analysis features technical functions such as `pandas`, `matplotlib`, `plotly`, `seaborn`, `word cloud`, `nltk`, `sklearn`, `Multinominal Naive Bayes Model`.
 ___
 
-### 📊 [Segmenting and Clustering Neighborhoods in Toronto](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/3cdcd0e9-3226-4307-9f22-baa19bad3d27/view?access_token=93541f20d4deb09840c6ca509a16cbfc5ada9ce3e34e35ed2aa31c079f9a1d65) 
+### 📊 [Segmenting and Clustering Neighborhoods in Toronto](https://nbviewer.jupyter.org/github/brimoe/Portfolio/blob/main/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto%20%281%29.ipynb) 
 Language: Python
 
 For this data project, I segmented and clustered the neighborhoods in Toronto, Canada, based on postal code and district information found from an open data source. Then, I generated a folium map to visualize the communities and how they cluster together.
