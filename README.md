@@ -9,7 +9,11 @@ Hi, My name is Briana Moses. I am a recent college graduate with a B.A. in psych
 
 ___
 ## Projects:
-Data Analytics has become an instant passion for me on how inquisitive and influential data can be. I love a good story, and data analysis is all about telling and showcasing a good story. This portfolio is a progressive collection of all the projects I've completed while displaying my growth and devotion to improving my analytical and technical skills. 
+Data Analytics has become an instant passion for me on how inquisitive and influential data can be. I love a good story, and data analysis is all about telling and showcasing a good story. This portfolio is a progressive collection of all the projects I've completed while displaying my growth and devotion to improving my analytical and technical skills. In this portfolio, I used various functionalities required to analyze and visualize my data:
+* SQL
+* Python
+* R
+* Tableau
 
 My data projects below will showcase what I've accomplished by learning data science and data analytics for educational and professional purposes. I am devoted to expanding my knowledge and eager to contribute my skills in a professional setting. \ (•◡•) /
 
