@@ -5,7 +5,7 @@ Hi, My name is Briana Moses. I am a recent college graduate with a B.A. in psych
 
 📧 : bmoses98@outlook.com
 
-📇 : LinkedIn
+📇 : www.linkedin.com/in/brianamoses
 
 ___
 ## Projects:
