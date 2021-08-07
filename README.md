@@ -34,7 +34,7 @@ Language: Python
 
 For this data project, I segmented and clustered the neighborhoods in Toronto, Canada, based on postal code and district information found from an open data source. Then, I generated a folium map to visualize the communities and how they cluster together.
 
-This analysis features technical functions such as `pandas`, `beautiful soup`, `numpy`, `nominatim`, `json_normalize`, and `folium`.
+This analysis features technical functions such as `pandas`, `beautiful soup`, `numpy`, `nominatim`, `json_normalize`, and `folium`. 
 ___
 
 ### 📊 [Battle of the Neighborhoods Capstone Project](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/5f0c3d1c-396a-4555-b9f5-2c7e0482b10e/view?access_token=c20feba44814fd74935a511af0ad6176a2943983942271d0a7cfa579df4c4539)
