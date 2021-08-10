@@ -7,7 +7,6 @@ Hi, My name is Briana Moses. I am a recent college graduate with a B.A. in psych
 
 📇 : www.linkedin.com/in/brianamoses
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrimoe%2FPortfolio%2Fblob%2Fmain%2FREADME.md&count_bg=%23D122CA&title_bg=%23555555&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ___
 ## Projects:
