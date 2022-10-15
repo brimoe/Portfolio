@@ -1,11 +1,8 @@
 # Welcome to my Portfolio! (◕‿◕✿)
 
 ## About Me:
-Hi, My name is Briana Moses. I am a recent college graduate with a B.A. in psychology. After taking a statistics analytics course as an elective during my last semester of university, I became captivated by the numerous things one can do with just analyzing data. Thus completing my undergrad degree during COVID-19, I used quarantine as self-motivation to enhance my technical and analytical skills to pursue a career as a data analyst. 
+Hi, My name is Briana Moses. I am a graduate student pursuing an M.S. in Data Science. After taking a statistics analytics elective during my last semester during my undergrad, I became captivated by the numerous things one can do with just analyzing data. Thus, after completing my B.A. degree, I created a portfolio to show my progress in enhancing my practical knowledge in the data science and analytics sector.
 
-📧 : bmoses98@outlook.com
-
-📇 : www.linkedin.com/in/brianamoses
 
 
 ___
