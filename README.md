@@ -1,4 +1,4 @@
-# Welcome to my Portfolio! \ (•◡•) /
+# Welcome to my Portfolio! 
 
 ## About Me:
 Hi, My name is Briana Moses. I am a graduate student pursuing an M.S. degree in Data Science. After taking a statistics analytics elective during my last semester in my undergrad, I became captivated by the numerous things one can do with just analyzing data. Thus, after completing my B.A. degree, I created a portfolio to showcase my progress in enhancing my knowledge in the data science and analytics sector.
